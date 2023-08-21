@@ -59,21 +59,21 @@ Packet Switching vs Circuit Switching
 # Performance
 
 ## Packet Delay: Four sources
-### d_proc: nodal processing
+### $d_proc$: nodal processing
 - check bit errors
 - determine output link
 - typically < microseconds
 
-### d_queue: queuing delays
+### $d_queue$: queuing delays
 - time waiting at output link for transmission
 - depends on congestion levels
 
-### d_trans: transmission delay:
+### $d_trans$: transmission delay:
 - L: Packet length (bits)
 - R: Link transmission rate (bps)
-- d_trans: = L/R
+- $d_trans$: = $L/R$
 
-### d_prop: propagation delay:
+### $d_prop$: propagation delay:
 
 ## Packet queuing delay 
 - a: average packet arrival rate
