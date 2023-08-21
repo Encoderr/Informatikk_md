@@ -1,0 +1,1 @@
+Also known as first hop redundancy router (FHRP), is a network protocol which protects the default gateway used on a subnetwork by allowing two or more routers to provide backup for that address.  

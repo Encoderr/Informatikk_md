@@ -1,0 +1,1 @@
+Different channels transmitted in different frequency bands

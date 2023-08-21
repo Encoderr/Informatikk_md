@@ -1,1 +1,1 @@
-# Informatikk_md
+Repo for lagring av informasjon for flere fag i Informatikk.
