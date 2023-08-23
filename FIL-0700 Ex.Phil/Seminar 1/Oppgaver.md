@@ -3,7 +3,7 @@
 2. Hvorfor er det vanskelig å si nøyaktig når mennesket oppstod? Forteller dette oss noe om hva det vil si å være menneske? (svaret på dette står ikke i læreboka).  
 	Det er vanskelig å si når mennesket oppstod fordi vi har ingen konkrete bevis på når vi har blitt "mennesker". Å være "menneskelig" er utviklingen av sinnet i over gradvis tid, som gjør det å finne ut om når man faktisk ble et menneske vanskelig.  Dette forteller også litt om hvordan det er å være menneske, fordi vi konstant prøve å finne ut om når vi ble mennesker, og at vi fortsatt utvikler oss som et menneske.
 3. Hva er bevissthet?  
-	Bevissthet er en sans som gjør at "vi lever". Det er viten av eksistens.
+	Bevissthet er en sans som gjør at "vi lever". Det er viten av vår egen eksistens.
 4. Hvorfor er det vanskelig å forklare forholdet mellom kroppen og sinnet? (S.15-16).  
 	Det er vanskelig å forklare forholdet fordi man kan ikke sette f.eks et fysisk preg på sinnet. Men samtidig så kan det påvirke kroppen. Sinnet får oss til å spise, gå på jobb, komme ut av sengen. Sinnet kan gi oss tanker som kan være "tunge", men samtidig så har det ikke en fysisk vekt som påvirker kroppen.
 5. Hva er Descartes sin teori om forholdet mellom kropp og sinn?  
