@@ -1,0 +1,1 @@
+Førsteordens omhandler verden, andreordens handler om hva man tror om verden. Andresordenstanker handler med andre ord om førsteordenstanker. 

@@ -27,7 +27,7 @@
 		
 6. Hva er problemet med Descartes sin posisjon?  
    
-	Problemet med Descartes sinn posisjon er at det benekter sammenhenger mellom sinnet og kroppen. Hannes posisjon betyr at sinnet og kroppen ikke har noen form for samhandling.   
+	Problemet med Descartes sinn posisjon er at det benekter sammenhenger mellom sinnet og kroppen. Hannes posisjon betyr at sinnet og kroppen ikke har noen form for samhandling.   (Egenskaper som utelukker seg gjensidig. Ghost in the machine problem.)
 	
 7. Hva er det materialistiske synet på forholdet mellom kropp/sinn?  
    
@@ -37,7 +37,7 @@
    
 	Ifølge Nagel, så er Descartes syn et perspektiv på at det mentale ikke lengre er en del av virkeligheten; noe som det er.
 	
-9. Forklar begrepene første- og andreordens bevissthet. Gi egne eksempler. Forklar her hva det vil si å ha tanker om tanker.  
+9. Forklar begrepene [[første- og andreordens bevissthet]]. Gi egne eksempler. Forklar her hva det vil si å ha tanker om tanker.  
    
 	Begrepene første- og andreordens bevissthet er oppfatningen av verden med sin egen forestilling. Første ordens bevissthet kan bli sett på som et faktum, der vi ser og forteller fakta om en påstand. Andreordens er at vi ikke forholder oss til hvordan verden er. Det vil si at med andreordens bevissthet så "tror" vi på en påstand, selv om det er et faktum av påstanden allerede. 
 	
