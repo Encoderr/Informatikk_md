@@ -1,0 +1,5 @@
+- Reliable transport between sending and receiving process
+- Flow control: Sender won't overwhelm receiver
+- Congestion control: throttle sender when network is overloaded
+- Connection-oriented: setup required between client and server processes
+- Does not provide timing, minimum throughput guarantee or security

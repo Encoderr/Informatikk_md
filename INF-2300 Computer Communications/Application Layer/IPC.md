@@ -1,0 +1,1 @@
+Inter Process Communication is a mechanism that allows processes to communicate with each other and synchronize their actions.

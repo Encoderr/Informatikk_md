@@ -1,0 +1,1 @@
+Some apps require low delay to be effective, which means it needs to have good timing.

@@ -1,6 +1,6 @@
 ## Protocols are everywhere
 - Controls sending, receiving of messages
-- HTTP (web), TCP, IP, WiFi, 4/5G etc
+- HTTP (web), [[TCP]], IP, WiFi, 4/5G etc
 
 ## Internet Standards
 - RFC : Request For Command
