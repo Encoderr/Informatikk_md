@@ -1,0 +1,1 @@
+FTP - File Transfer Protocol is a standard protocol used for transferring computer files from a server to a client. It is built on a client-server model architecture using separate control and data connections between the client and the server.

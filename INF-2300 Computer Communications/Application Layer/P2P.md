@@ -1,0 +1,1 @@
+Basically clients communicating with clients directly. Peers are intermittently connected and change IP addresses. An example of this is BitTorrent which uses file sharing with P2P. 

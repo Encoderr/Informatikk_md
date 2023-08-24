@@ -7,3 +7,5 @@ Handler om dokumentasjon, presisjon og være klar og tydelig i språket. Faget g
 Førsteordens omhandler verden, andreordens handler om hva man tror om verden. Andresordenstanker handler om førsteordenstanker
 
 "Eg har et ønske om å snuse", med andre ord vi prøver å kontrollere våre ønsker. Vi kan velge våre valg, som f.eks at vi kan velge mellom å drikke energidrikk i motsetning til vann; på grunn av egne ønsker.
+
+*Her er oppgaver som ble gjort på forhånd:* [[Oppgaver]]

@@ -1,0 +1,2 @@
+Is always on host, and has a permanent IP address. (on server side)
+On client side, clients contact/communicate with the server and they may have dynamic IP. The clients do not communicate directly with each other, instead they interact with the server. (Like HTTP, IMAP and [[FTP]]) 
