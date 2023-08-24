@@ -32,4 +32,6 @@
 - SMTP uses persistent connections
 - SMTP requires message to be in 7-bit ASCII
 - SMTP servers uses CRLF.CRLF to determine end of messasge
+### Mail message format
+Header lines and the body of the message.
 # IMAP
