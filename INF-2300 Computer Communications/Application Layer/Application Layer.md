@@ -117,5 +117,13 @@ DNS query and reply messages have **both** the same format.
 - Message header:
 	- ID has 16 bit # for query and reply uses same #
 
+**Getting your info into the DNS**
+- Register the(your) network at the DNS registrar
+	- Provide names, IP addresses of authoritative name server (primary and secondary)
+	- Registrar inserts NS, A RRs into .com TLD Server
+- Create authoritative server locally with IP Address 212.212.212.1
+
+## DNS Security
+Certain types of attacks: [[DDoS]] and Spoofing attacks
 
 # P2P Applications
