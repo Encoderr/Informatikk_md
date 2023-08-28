@@ -1,0 +1,1 @@
+Time delay over our network connection. This is due to network congestion or route changes.

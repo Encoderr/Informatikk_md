@@ -127,3 +127,81 @@ DNS query and reply messages have **both** the same format.
 Certain types of attacks: [[DDoS]] and Spoofing attacks
 
 # P2P Applications
+## The Architecture 
+- No always-on server
+- Arbitrary end systems directly communicate
+- Peers request service from other peers, provide service in return to other peers
+- Peers are intermittently connected and share IP Addresses
+	- Complex management
+
+- Server transmission: must sequentially send(upload) N file copies
+	- time to send one copy: F/u_s
+	- time to send N copies: NF/u_s
+- Client: each client must download file copy
+	- d_min = min client download rate
+	- min client download time: F/d_min
+
+$$D_{c-s} >_{max}{NF/u_s, F/d_[min]}$$
+$$D_p2p >_ {max}{F/u_s,\space F/d_min,\space NF/(u_s + \sum u_i)}$$
+# Video Streaming and content distribution networks
+## Video Streaming
+- Video characteristics
+- Streaming stored video
+	- Buffering
+	- Playout
+- DASH - Dynamic Client-Driven Streaming
+- CDNs example
+
+### Context
+- Stream video traffic: major consumer of internet bandwidth
+- *challenge*: scale- how to reach 1 Billion users?
+- *challenge*: heterogeneity
+	- different users have different capabilities
+- *solution*: distributed, application based infrastructure
+### Multimedia: Video
+- Video: Sequence of images display at constant rate (24 images/sec)
+- Digital image: array of pixels where each pixel is represented by bits
+- Coding: use redundancy within and between images to decrease the number of bits used to encode image
+	- Spacial (within image)
+	- Temporal (from one image to the next)
+- CBR (constant bit rate): Video encoding rate fixed
+- VBR (Variable Bit Rate): video encoding rate changes as amount of spatial, temporal coding changes
+- examples:
+	- MPEG 1 (CD-ROM)
+	- MPEG 2 (DVD) 3-6 Mbps
+	- MPEG 4 (often used in Internet, 64Kbps - 12Mbps)
+
+### Streaming stored video
+**Main-challenges**:
+- Bandwidth varies over time
+- Packet loss due to congestion (low quality or output delay)
+
+**Steps in streaming a stored video**:
+1. Video is recorded
+2. Video is being sent by the server
+3. Video is being played out at the client
+
+**Challenges**:
+- Continuous play-out constraint: during client video play-out, play-out timing must match original timing.
+- Client interactivity: pause, fast-forward, rewind etc...
+- Video packets may be lost, re-transmitted
+- [[Variable network delays]]
+
+**Playout buffering** will help compensate for the network-added delay and it will delay [[jitter]].
+
+### Streaming multimedia: DASH (Dynamic Adaptive Streaming over HTTP)
+**Server**:
+- Divides video file into multiple chunks
+- Each chunk encoded at multiple different rates
+- Different rates of encoding which is stored in different files
+- Files replicated in various nodes
+- **Manifest file**: provides URLs for different chunks
+
+**Client**:
+- Periodically estimates server-to-client bandwidth
+- Consulting manifest, requests one chunk at a time
+	- Client chooses the maximum sustainable coding rate given.
+
+## CDNs 
+To stream content for hundreds of thousands of simultaneous users, we can create a mega server, or we can store/serve multiple copies of videos at multiple geographically distributed sites.
+# Socket programming with UDP and TCP
