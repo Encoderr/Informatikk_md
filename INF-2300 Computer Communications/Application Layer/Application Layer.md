@@ -47,3 +47,75 @@ Two types of HTTP Messages: Request and receive.
 
 ## [[E-mail#SMTP Protocol|SMTP]]
 ## [[E-mail#IMAP|IMAP]]
+
+# [[DNS]](Domain Name System)
+## DNS Services & structure
+### Services
+- Hostname-to-IP-address translation
+- Host aliasing
+	- Canonical, alias names
+- Mail Server aliasing
+- Load Distribution
+*Why not centralize the DNS?*
+- Single point of failure
+- Traffic volume
+- Distant centralized database
+- Maintenance
+
+**Each ms counts in regards for resolving loaded traffic!**
+
+We do not centralize it because it would get too many queries at the same time. 
+
+DNS is physically decentralized, which means it is reliable and secure.
+### Structure
+**Example of a DNS Hierarchy:** Root -> Top Level Domain -> Authoritative
+
+DNS root name servers:
+- Official, contact-of-last-resort by name servers that can not resolve name
+- *Very important function* for the internet
+	- Internet couldn't function without DNS
+	- DNSSEC - provides security (message integrity and authentication)
+
+**Top level Domain (TLD) Servers:**
+- Responsible for .com, .org, .net and all top level country domains like .no, .dk etc...
+**Authorative DNS Servers:**
+- Organization's own DNS server(s), providing authoritative hostname to the IP Addresses.
+**Local DNS name servers:**
+- When host makes DNS query, it is sent to its local DNS server
+	- Local DNS server returns a reply, answering:
+		- from its local cache of recent name-to-address translation pairs
+		- forwarding request into DNS hierarchy for resolution
+
+**DNS Iterated Query:**
+Requesting host -> local DNS server -> root DNS server - local DNS server -> TLD DNS server -> local DNS server -> authoritative DNS server -> local DNS server -> requesting host.
+
+**DNS Recursive Query:**
+Requesting host -> local DNS server -> Root DNS Server -> TLD DNS Server -> Authoritative DNS server -> TLD DNS server -> Root DNS server -> local DNS server -> Requesting host.
+
+**Caching DNS Info**
+- Once (any) name server learns mapping, it caches mapping, and immediately returns a cached mapping in response to a query
+	- Caching improves response time
+	- Cache entries timeout (disappear) after some time (TTL)
+	- TLD Servers typically cached in local name servers
+- Cached entries may be *out of date*
+	- if named host changes IP-address, it may not be known Internet-wide until all TTLs expire
+	- **Best-effort name-to-address translation!**
+
+## DNS records
+- Has a resource record (RR) where the format is: (name, value, type, ttl).
+- Different types are:
+	- Type A
+		- name is hostname
+		- value is ip address
+	- Type NS
+		- name is domain
+		- value is hostname of authorative name server for this domain
+	- Type CNAME
+	- Type MX
+
+DNS query and reply messages have **both** the same format.
+- Message header:
+	- ID has 16 bit # for query and reply uses same #
+
+
+# P2P Applications
