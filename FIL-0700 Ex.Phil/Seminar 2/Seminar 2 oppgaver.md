@@ -16,7 +16,7 @@ a)** Argumentet mot **handlingsfrihet** er at selv om en person kan handle fritt
 
 **Kapittel 2 (59-73).**
 
-**(1)** **Platons definisjon av kunnskap** er ofte formulert som en "begrunnet sann oppfatning." Eksempel: Jeg vet at solen står opp i øst fordi jeg har observert det og det er vitenskapelig bekreftet.
+**(1)** **Platons definisjon av kunnskap** er ofte formulert som en "berettiget sann oppfatning." Eksempel: Jeg vet at solen står opp i øst fordi jeg har observert det og det er vitenskapelig bekreftet.
 
 **(2)** Edmund Gettier's kritikk av "berettiget sann oppfatning" som definisjon av kunnskap er basert på tilfeller hvor en tro er både berettiget og sann, men der sannheten av troen ikke er på grunn av begrunnelsen som rettferdiggjør troen.
 
@@ -27,9 +27,9 @@ a)** Argumentet mot **handlingsfrihet** er at selv om en person kan handle fritt
 **(3)** **Korrespondanseteorien om sannhet** hevder at en påstand eller tro er sann hvis, og kun hvis, den korresponderer med den måten virkeligheten faktisk er på. Med andre ord, en påstand er sann hvis den samsvarer med de faktiske forholdene i verden.
 
 **Problemer med korrespondanseteorien**:
-1. Kan det være utfordrende å presist definere hva "å korrespondere med virkeligheten" faktisk betyr.
+1. Det kan være utfordrende å presist definere hva "å korrespondere med virkeligheten" faktisk betyr.
 2. Komplekse påstander, som f.eks sannheter om påstander med etiske vurderinger, eller andre påstander som ikke kan enkelt bli sjekket opp mot virkeligheten.
 
 **(4)** **Koherensteorien** hevder at en oppfatning er sann hvis og bare hvis den samstemmer med et sett av andre oppfatninger som personen har. Problemet er at det er mulig for et sett av overbevisninger å være koherente, men likevel feilaktige i forhold til virkeligheten.
 
-F.eks to personer med forskjellige sett med tro kan hevde at deres overbevisning er den "sanne", selv om disse motsier hverandre. Noe annet kan være sannhet av enkle påstander som ikke har noen andre påstander å koherere med. Betyr dette at påstanden ikke er sann med en gang?
+F.eks to personer med to ulike typer tro kan hevde at deres overbevisning er den "sanne", selv om disse motsier hverandre. Noe annet kan være sannhet av enkle påstander som ikke har noen andre påstander å koherere med. Betyr dette at påstanden ikke er sann med en gang? *Regressproblemet*
