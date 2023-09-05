@@ -127,7 +127,7 @@ Approach to designing/discussing complex systems:
 - Application: supporting network applications
 	- HTTP, IMAP, SMTP, DNS
 - Transport: process-process data transfer
-	- TCP, UDP
+	- TCP, [[UDP]]
 - Network: Routing of datagrams from source to destination
 	- IP, Routing protocols
 - Link: data transfer between neighboring network elements

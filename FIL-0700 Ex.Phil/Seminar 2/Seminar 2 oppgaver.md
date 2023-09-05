@@ -6,7 +6,7 @@
 
 **(3)
 a)** Argumentet mot **handlingsfrihet** er at selv om en person kan handle fritt, betyr det ikke nødvendigvis at valget ble tatt fritt. (Kleptomani f.eks)
-**b)** Argumentet mot **viljesfrihet 1** er at det bare fordi en person har evnen til å ønske uten ytre påvirkning, betyr det ikke at ønsket eller valget var genuint deres eget.
+**b)** Argumentet mot **viljesfrihet 1** er at bare fordi en person har evnen til å ønske uten ytre påvirkning, betyr det ikke at ønsket eller valget var genuint deres eget.
 
 **(4)** **Harry Frankfurt** introduserte en idé om første- og andreordens ønsker. Førsteordens ønsker er direkte ønsker om å handle, mens andreordens ønsker handler om å ønske bestemte førsteordens ønsker. **Gary Watson** videreutvikler dette ved å se nærmere på hvordan disse ønskene interagerer med vår moralske karakter.
 
