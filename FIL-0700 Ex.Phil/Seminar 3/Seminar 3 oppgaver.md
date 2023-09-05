@@ -1,3 +1,7 @@
+(1) **Apriori kunnskap** er kunnskap som er uavhengig av erfaring. Med andre ord så er denne kunnskapen knyttet til sannheter som er sanne i uansett mulig verden. Dette kan da være f.eks 2 + 2 = 4.
+
+**Empirisk kunnskap** er kunnskap som er avhengig av erfaring, med andre ord det motsatte av apriori kunnskap. Hvis du f.eks rører en flamme og føler smerte, så har man oppnått empirisk kunnskap om at flammer er veldig varmt og kan påføre skade og smerte. Dette eksemplet er også en kontigent sannhet, som vil si at det er sant i denne verden vi er i for øyeblikket; men det betyr ikke at det er sant i en annen verden.
+
 **Descartes**
 
 (1) **Metodisk tvil og fundamentasjonalisme** 
