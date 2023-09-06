@@ -12,19 +12,19 @@ Descartes' metodiske tvil er en systematisk prosess der han prøver å tvile på
 Descartes begynner med å betvile sansene, fordi de noen ganger bedrar oss. Deretter betviler han drømmer, fordi det vi oppfatter i drømmer kan være like virkelig som våkne opplevelser. Til slutt introduserer han ideen om en ond demon som kan forlede ham til å tro på falskheter. Dette gjør at han kan tvile på alt, inkludert matematikk.
 
 (3) **Stopper for tvil**
-Descartes' tvil stopper ved erkjennelsen "Cogito, ergo sum" (Jeg tenker, derfor er jeg). Dette er en intuitiv innsikt fordi den er umiddelbart åpenbar og trenger ingen ytterligere begrunnelse.
+Descartes' tvil stopper ved erkjennelsen "Cogito, ergo sum" (Jeg tenker, derfor er jeg). Dette er en intuitiv innsikt fordi den er umiddelbart åpenbar og trenger ingen ytterligere begrunnelse. Med andre ord så forklarer erkjennelsen seg selv.
 
 (4) **Bevis for Guds eksistens**
 Descartes presenterer flere argumenter for Guds eksistens, hvorav det ontologiske argumentet er mest kjent. Han argumenterer for at ideen om en fullkommen Gud bare kan ha sin opprinnelse fra en faktisk eksisterende fullkommen Gud. Beviset for Guds eksistens er sentralt i Descartes' system fordi Gud garanterer sannheten i de klare og distinkte ideene vi har.
 
 (5) **Kunnskapskilder**
-For Descartes er grunnlaget for kunnskap klare og distinkte ideer. Gjennom rasjonell introspeksjon kan vi kjenne disse ideene og bygge på dem for videre kunnskap.
+For Descartes er grunnlaget for kunnskap klare og distinkte ideer. Gjennom rasjonell introspeksjon kan vi kjenne disse ideene og bygge på dem for videre kunnskap. Sanse erfaringen bruker han som kunnskapskilde.
 
 (6) **Vitenskapelig metode og regler**
-Descartes foretrakk en deduktiv metode i filosofien, basert på geometriens modell. Hans fire metoderegler inkluderer: (a) Ikke akseptere noe som sant med mindre det er klart og utvetydig; (b) Del opp problemer i mindre deler; (c) Begynn med det enkleste og bygg videre; (d) Vær omfattende, slik at ingenting blir oversett.
+Descartes foretrakk en deduktiv metode i filosofien, basert på geometriens modell. Hans fire metoderegler inkluderer: (a) Ikke akseptere noe som sant med mindre det er klart og ubetvilelig; (b) Del opp problemer i mindre deler; (c) Begynn med det enkleste og bygg videre; (d) Vær omfattende, (fullstendige oppsummeringer)slik at ingenting blir oversett. 
 
 (7) **Problemer med Descartes teori**
-Kritikere påpeker ofte at hans tvil kan være for radikal, at hans argument for Guds eksistens er feil, og at skille mellom kropp og sinn skaper flere problemer enn det løser. Hvorvidt man er enig med denne kritikken avhenger av ens egne filosofiske posisjoner.
+Hans tvil kan være for radikal, og at hans argument for Guds eksistens er feil, og at skille mellom kropp og sinn skaper flere problemer enn det løser. 
 
 **<u>Hume</u>**
 
@@ -41,4 +41,7 @@ Hume opererer med tre assosiasjonsprinsipper: likhet, nærhet i tid eller sted, 
 Selv om vi observerer en hendelse etter en annen, kan vi ikke direkte observere årsaksforholdet mellom dem. Derfor kan ikke ideen om universell årsak oppfylle Humes kriterium for ekte kunnskap. Vi antar årsakssammenhenger basert på vane og erfaring, ikke direkte observasjon.
 
 (5) **Humes begrunnelse for årsaksforestillingen**
-Humes sin begrunnelse er rett og slett er at årsaksforestillingen er at vi ser noe gjentatt skje, og deretter sier at årsaken for det er på grunn av vane og erfaring. Det vil si at vi erfarer at noe skjer ut av vane, som da gir oss denne årsaksforestillingen. Et eksempel på dette kan f.eks være at vi slipper et eple flere ganger og ser at den faller. Vi har en forventning om at den kommer til å falle neste gang vi slipper den, men vi har ingen andre konkrete bevis på at det ikke kommer til å skje, fordi vi har vanen med at eplet faktisk faller.  
+Humes sin begrunnelse er rett og slett er at årsaksforestillingen er at vi ser noe gjentatt skje, og deretter sier at årsaken for det er på grunn av vane og erfaring. Det vil si at vi erfarer at noe skjer ut av vane, som da gir oss denne årsaksforestillingen. Et eksempel på dette kan f.eks være at vi slipper et eple flere ganger og ser at den faller. Vi har en forventning om at den kommer til å falle neste gang vi slipper den, men vi har ingen andre konkrete bevis på at det ikke kommer til å skje, fordi vi har vanen med at eplet faktisk faller. 
+
+<u>Kant</u>
+(1) **Forklar kort hva Kants ide om mulighetbetingelser for erfaring går ut på**
