@@ -1,8 +1,9 @@
-(1) **Apriori kunnskap** er kunnskap som er uavhengig av erfaring. Med andre ord så er denne kunnskapen knyttet til sannheter som er sanne i uansett mulig verden. Dette kan da være f.eks 2 + 2 = 4.
+(1)
+**Apriori kunnskap** er kunnskap som er uavhengig av erfaring. Med andre ord så er denne kunnskapen knyttet til sannheter som er sanne i uansett mulig verden. Dette kan da være f.eks 2 + 2 = 4.
 
 **Empirisk kunnskap** er kunnskap som er avhengig av erfaring, med andre ord det motsatte av apriori kunnskap. Hvis du f.eks rører en flamme og føler smerte, så har man oppnått empirisk kunnskap om at flammer er veldig varmt og kan påføre skade og smerte. Dette eksemplet er også en kontigent sannhet, som vil si at det er sant i denne verden vi er i for øyeblikket; men det betyr ikke at det er sant i en annen verden.
 
-**Descartes**
+**<u>Descartes</u>**
 
 (1) **Metodisk tvil og fundamentasjonalisme** 
 Descartes' metodiske tvil er en systematisk prosess der han prøver å tvile på all kunnskap han har, for å finne et solid fundament for vitenskapelig kunnskap. Målet er å finne noe absolutt sikkert å bygge videre på. Læreboka kaller Descartes en "fundasjonalist" fordi han ønsker å bygge all kunnskap på et urokkelig fundament.
@@ -25,7 +26,7 @@ Descartes foretrakk en deduktiv metode i filosofien, basert på geometriens mode
 (7) **Problemer med Descartes teori**
 Kritikere påpeker ofte at hans tvil kan være for radikal, at hans argument for Guds eksistens er feil, og at skille mellom kropp og sinn skaper flere problemer enn det løser. Hvorvidt man er enig med denne kritikken avhenger av ens egne filosofiske posisjoner.
 
-**Hume**
+**<u>Hume</u>**
 
 (1) **Inntrykk og forestillinger**
 For Hume er "inntrykk" direkte sensoriske opplevelser, mens "forestillinger" er svakere mentale bilder av disse opplevelsene. Han mener at alle ideer kommer fra opprinnelige inntrykk.
