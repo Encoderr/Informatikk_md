@@ -38,3 +38,6 @@ Hume opererer med tre assosiasjonsprinsipper: likhet, nærhet i tid eller sted, 
 
 (4) **Årsaksforestillingen**
 Selv om vi observerer en hendelse etter en annen, kan vi ikke direkte observere årsaksforholdet mellom dem. Derfor kan ikke ideen om universell årsak oppfylle Humes kriterium for ekte kunnskap. Vi antar årsakssammenhenger basert på vane og erfaring, ikke direkte observasjon.
+
+(5) **Humes begrunnelse for årsaksforestillingen**
+Humes sin begrunnelse er rett og slett er at årsaksforestillingen er at vi ser noe gjentatt skje, og deretter sier at årsaken for det er på grunn av vane og erfaring. Det vil si at vi erfarer at noe skjer ut av vane, som da gir oss denne årsaksforestillingen. Et eksempel på dette kan f.eks være at vi slipper et eple flere ganger og ser at den faller. Vi har en forventning om at den kommer til å falle neste gang vi slipper den, men vi har ingen andre konkrete bevis på at det ikke kommer til å skje, fordi vi har vanen med at eplet faktisk faller.  
