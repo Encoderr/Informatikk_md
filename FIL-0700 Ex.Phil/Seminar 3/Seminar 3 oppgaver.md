@@ -32,7 +32,7 @@ Hans tvil kan være for radikal, og at hans argument for Guds eksistens er feil,
 For Hume er "inntrykk" direkte sensoriske opplevelser, mens "forestillinger" er svakere mentale bilder av disse opplevelsene. Han mener at alle ideer kommer fra opprinnelige inntrykk.
 
 (2) **Kriterium for ekte kunnskap**
-Humes kriterium er at en oppfatning må enten være en forholdet mellom ideer (f.eks. matematikk) eller være grunnet i empirisk erfaring. En oppfatning som ikke tilfredsstiller dette kan være ideen om en gullfjell - vi har ideer om gull og fjell, men ingen empirisk erfaring av et gullfjell.
+Humes kriterium er at en oppfatning må enten være forholdet mellom ideer (f.eks. matematikk) eller være grunnet i empirisk erfaring. En oppfatning som ikke tilfredsstiller dette kan være ideen om en gullfjell - vi har ideer om gull og fjell, men ingen empirisk erfaring av et gullfjell.
 
 (3) **Assosiasjonsprinsipp**
 Hume opererer med tre assosiasjonsprinsipper: likhet, nærhet i tid eller sted, og årsak/virkning.
