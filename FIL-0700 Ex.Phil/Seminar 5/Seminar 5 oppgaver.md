@@ -2,7 +2,7 @@
     
     - **Dydsetikken** fokuserer på personens karakter og dyder. Det handler om hvilken type person man bør være.
     - **Utilitarismen** fokuserer på konsekvensene av handlinger. Det riktige er det som gir mest nytte, oftest definert som glede eller velvære.
-    - **Pliktetikken**, ofte assosiert med Immanuel Kant, fokuserer på plikter og regler. Det handler om å handle i tråd med en universell lov.
+    - **Pliktetikken**, ofte assosiert med Immanuel Kant, fokuserer på plikter og regler. Det handler om å handle i tråd med en universell lov. Altså det fokuserer på selve handlingen.
       
 2. **Dyd og forholdet til lykke**:
     
@@ -15,12 +15,13 @@
       
 4. **Følelser i Aristoteles' etikk**:
     
-    - Selv om dyder er holdninger, anerkjente Aristoteles følelser som en viktig del av etisk atferd. For ham er riktig følelse på riktig tidspunkt en del av dydig handling.
+    - Selv om dyder er holdninger, anerkjente Aristoteles følelser som en viktig del av etisk atferd. For ham er riktig følelse på riktig tidspunkt en del av dydig handling. 
       
 5. **Klokskap og middelveien**:
     
-    - **Klokskap (fronesis)** er en praktisk klokskap eller visdom, som handler om å vite hvordan man skal handle riktig i konkrete situasjoner.
+    - **Klokskap (fronesis)** er en praktisk klokskap eller visdom, som handler om å vite hvordan man skal handle riktig i konkrete situasjoner. Klokskap forutsetter dyd, så f.eks hvis du ikke har dyd så har du ikke klokskap. Innsikt i rett handling med andre ord. 
     - Læren om **middelveien** handler om at hver dyd ligger mellom to laster – en av mangel og en av overflod. For eksempel ligger tapperhet mellom feighet (mangel) og dumdristighet (overflod).
+    - Du må ha klokskap for å oppnå dyd. Du gjør med andre ord det rette på grunn av informasjon du allerede har.
       
 6. **Et godt liv ifølge Aristoteles**:
     

@@ -1,4 +1,5 @@
-(1)Deskriptiv etikk handler om å beskrive og analysere faktiske moralske handlinger og holdninger i samfunnet uten å vurdere om de er riktige eller gale. Normativ etikk, søker å fastsette normer og prinsipper for hva som er rett og galt.
+(1)
+Deskriptiv etikk handler om å beskrive og analysere faktiske moralske handlinger og holdninger i samfunnet uten å vurdere om de er riktige eller gale. Normativ etikk, søker å fastsette normer og prinsipper for hva som er rett og galt.
 
 **Utilitarisme**
 (1)Utilitarisme er en universalistisk og upartisk etisk teori som går ut på å maksimere lykke eller velvære for flest mulig mennesker. Den er universalistisk fordi den søker det beste for alle uten å diskriminere, og upartisk fordi den tar hensyn til alle individers interesser.
