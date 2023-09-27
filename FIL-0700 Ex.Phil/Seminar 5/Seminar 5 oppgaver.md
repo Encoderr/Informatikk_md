@@ -21,11 +21,10 @@
     
     - **Klokskap (fronesis)** er en praktisk klokskap eller visdom, som handler om å vite hvordan man skal handle riktig i konkrete situasjoner. Klokskap forutsetter dyd, så f.eks hvis du ikke har dyd så har du ikke klokskap. Innsikt i rett handling med andre ord. 
     - Læren om **middelveien** handler om at hver dyd ligger mellom to laster – en av mangel og en av overflod. For eksempel ligger tapperhet mellom feighet (mangel) og dumdristighet (overflod).
-    - Du må ha klokskap for å oppnå dyd. Du gjør med andre ord det rette på grunn av informasjon du allerede har.
       
 6. **Et godt liv ifølge Aristoteles**:
     
-    - Å leve et godt liv for Aristoteles betyr å oppnå "eudaimonia", ofte oversatt som "lykke" eller "flourishing". Dette oppnås ved å leve i henhold til fornuft og ved å kultivere og praktisere dyder.
+    - Å leve et godt liv for Aristoteles betyr å oppnå "eudaimonia", ofte oversatt som "lykke" eller "flourishing". Dette oppnås ved å leve i henhold til fornuft og ved å kultivere og praktisere dyder. Du oppfyller ikke dette f.eks. med å sitte å sløve på sofaen og spise potetgull.
 
 **Refleksjonsspørsmål**: Er det en iboende og nødvendig sammenheng mellom det å være moralsk og det å ha et godt liv?
 
